@@ -19,10 +19,10 @@ const connection = mysql.createConnection({
     // user: 'root',
     // password: 'Republic_C207',
     // database: 'cubes'
-    host: 'sql.freedb.tech',
-    user: 'freedb_Ralph',
-    password: 'hD9xZ6Btfd8?9DK',
-    database: 'freedb_Database MiniProject'
+    host: 'db4free.net',
+    user: 'db4freeralph',
+    password: 'db4freeralph',
+    database: 'db4freeralph'
 }); // test
 
 connection.connect((err) => {
